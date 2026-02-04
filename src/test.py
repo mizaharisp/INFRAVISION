@@ -1,0 +1,1 @@
+print("INFRAVISION project setup successful")
